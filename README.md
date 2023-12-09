@@ -1,1 +1,2 @@
 # Installer-Wizard-for-Python-Inventory-Management-GUI
+I personally developed the full-fledged installer application for my Python-built inventory management GUI! 🚀🖥️ After creating the database system and GUI, I've taken it a step further by ensuring easy access with a seamless installation process. Simply open the app and manage electronic item inventory effortlessly. Stay tuned for installation steps and experience the efficiency firsthand! 
