@@ -1,0 +1,1 @@
+# Installer-Wizard-for-Python-Inventory-Management-GUI
